@@ -1,2 +1,2 @@
-# front-end-training-fc2
+# frontend-mentor-training
  
